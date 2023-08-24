@@ -8,7 +8,7 @@
 
 Hey there 👋🏾
 
-I’m Biniyam, a  full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I am a huge advocate for open-source  and believe in the power of collaboration to drive innovation. I am also the co-founder and CTO of Qinash, where I lead the development of cutting-edge web applications. Let's connect and work together to build something great!
+I’m Biniyam, a  full-stack engineer, motivated coder, and self-proclaimed designer who specializes in front-end development. I am a huge advocate for open-source  and believe in the power of collaboration to drive innovation. I am also the co-founder and CTO of Qinash, where I lead the development of cutting-edge web applications. Let's connect and work together to build something great!
 
 Want to know more about me? [Check out my portfolio.](https://biniyamdaniel.vercel.app/)
 
